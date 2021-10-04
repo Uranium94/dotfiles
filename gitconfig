@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = maxellis85@gmail.com
+	name = Max Ellis
